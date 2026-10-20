@@ -1,0 +1,17 @@
+# Local reverse-engineering material and device captures can contain private data.
+/analysis/
+/dist/
+/research/
+/protocol/
+/tasks/
+/tools/
+/MASTER_PLAN.md
+/NEXT_SESSION_PROMPT.txt
+/00_小米打印响应式首页_执行总纲与TODO_20261020.md
+/LSPosed_API102_模块编写规范_2026-10.md
+/.idea/
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
