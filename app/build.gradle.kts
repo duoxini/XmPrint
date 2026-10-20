@@ -4,7 +4,7 @@ android {
     namespace = "io.github.dx.xmprint"
     compileSdk = 37
     defaultConfig {
-        applicationId = "io.github.dx.xmprint"
+        applicationId = "io.github.duoxini.xmprint"
         minSdk = 28
         targetSdk = 35
         versionCode = 1

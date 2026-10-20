@@ -63,7 +63,7 @@ APK 输出到 `app/build/outputs/apk/release/app-release.apk`。仓库不包含�
 
 - `versionName`: `1.0.0`
 - `versionCode`: `1`
-- applicationId: `io.github.dx.xmprint`
+- applicationId: `io.github.duoxini.xmprint`
 
 更新内容见 [CHANGELOG.md](CHANGELOG.md)。
 
